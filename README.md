@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohasb
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning develop applications multi platform
+- 🌱 I’m currently learning develop cross-platform applications
 - 💞️ I’m looking to collaborate on anyting
 - 📫 How to reach me: mh.haidor@gmail.com
 - ⚡ Fun fact: I love water sports 🌊
